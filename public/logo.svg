@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" fill="none">
+  <!-- Text "interage" -->
+  <text x="10" y="55" font-family="Arial, sans-serif" font-size="50" font-weight="500" fill="#334155" letter-spacing="-1">interage</text>
+  
+  <!-- Play Icon / Triangle Mosaic -->
+  <g transform="translate(210, 10)">
+    <!-- Top Red Triangle -->
+    <path d="M25 0 L50 15 L25 30 Z" fill="#ef4444" />
+    <path d="M22 2 L2 14 L22 26 Z" fill="#ef4444" opacity="0.8" />
+    
+    <!-- Middle Green Triangles -->
+    <path d="M50 18 L75 33 L50 48 Z" fill="#84cc16" />
+    <path d="M25 33 L50 48 L25 63 Z" fill="#84cc16" opacity="0.8" />
+    <path d="M2 33 L27 48 L2 63 Z" fill="#84cc16" opacity="0.6" />
+
+    <!-- Bottom Yellow Triangle -->
+    <path d="M50 51 L75 66 L50 81 Z" fill="#eab308" />
+    <path d="M25 66 L50 81 L25 96 Z" fill="#eab308" opacity="0.9" />
+  </g>
+</svg>
